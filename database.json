@@ -48,6 +48,10 @@
       "https://github.com/OasisRay/extrudePolygon_OasisRay.git",
       "1694574220574"
     ],
+    "https://github.com/OasisRay/moveRotate_OasisRay.git": [
+      "https://github.com/OasisRay/moveRotate_OasisRay.git",
+      "1694574474143"
+    ],
     "https://github.com/OasisRay/sphere_OasisRay.git": [
       "https://github.com/OasisRay/sphere_OasisRay.git",
       "1694572916008"
@@ -61,6 +65,10 @@
     "https://github.com/OasisRay/ChamferedParts_OasisRay.git:ChamferedParts.groovy": [
       "https://github.com/OasisRay/ChamferedParts_OasisRay.git",
       "ChamferedParts.groovy"
+    ],
+    "https://github.com/OasisRay/moveRotate_OasisRay.git:moveRotate.groovy": [
+      "https://github.com/OasisRay/moveRotate_OasisRay.git",
+      "moveRotate.groovy"
     ],
     "https://github.com/OasisRay/cylinder_OasisRay.git:cylinder.groovy": [
       "https://github.com/OasisRay/cylinder_OasisRay.git",
