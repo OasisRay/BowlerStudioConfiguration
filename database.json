@@ -12,6 +12,10 @@
       "https://github.com/OasisRay/cube_OasisRay.git",
       "1694572591297"
     ],
+    "https://github.com/OasisRay/NamedSolids_OasisRay.git": [
+      "https://github.com/OasisRay/NamedSolids_OasisRay.git",
+      "1694573638650"
+    ],
     "https://github.com/OasisRay/cylinder_OasisRay.git": [
       "https://github.com/OasisRay/cylinder_OasisRay.git",
       "1694573322358"
@@ -45,6 +49,10 @@
     "https://github.com/OasisRay/cylinder_OasisRay.git:cylinder.groovy": [
       "https://github.com/OasisRay/cylinder_OasisRay.git",
       "cylinder.groovy"
+    ],
+    "https://github.com/OasisRay/NamedSolids_OasisRay.git:NamedSolids.groovy": [
+      "https://github.com/OasisRay/NamedSolids_OasisRay.git",
+      "NamedSolids.groovy"
     ],
     "https://github.com/OasisRay/roundedcube_OasisRay.git:roundedcube.groovy": [
       "https://github.com/OasisRay/roundedcube_OasisRay.git",
