@@ -60,6 +60,10 @@
       "https://github.com/OasisRay/ChamferedParts_OasisRay.git",
       "1694572536828"
     ],
+    "https://github.com/OasisRay/javaCadHull_OasisRay.git": [
+      "https://github.com/OasisRay/javaCadHull_OasisRay.git",
+      "1694575399094"
+    ],
     "https://github.com/OasisRay/extrudePolygon_OasisRay.git": [
       "https://github.com/OasisRay/extrudePolygon_OasisRay.git",
       "1694574220574"
@@ -121,6 +125,10 @@
     "https://github.com/OasisRay/sphere_OasisRay.git:sphere.groovy": [
       "https://github.com/OasisRay/sphere_OasisRay.git",
       "sphere.groovy"
+    ],
+    "https://github.com/OasisRay/javaCadHull_OasisRay.git:javaCadHull.groovy": [
+      "https://github.com/OasisRay/javaCadHull_OasisRay.git",
+      "javaCadHull.groovy"
     ],
     "https://github.com/OasisRay/cube_OasisRay.git:cube.groovy": [
       "https://github.com/OasisRay/cube_OasisRay.git",
