@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/OasisRay/union_OasisRay.git": [
+      "https://github.com/OasisRay/union_OasisRay.git",
+      "1694574856486"
+    ],
     "https://github.com/OasisRay/roundedcube_OasisRay.git": [
       "https://github.com/OasisRay/roundedcube_OasisRay.git",
       "1694572779865"
@@ -109,6 +113,10 @@
     "https://github.com/OasisRay/cube_OasisRay.git:cube.groovy": [
       "https://github.com/OasisRay/cube_OasisRay.git",
       "cube.groovy"
+    ],
+    "https://github.com/OasisRay/union_OasisRay.git:union.groovy": [
+      "https://github.com/OasisRay/union_OasisRay.git",
+      "union.groovy"
     ],
     "https://github.com/OasisRay/extrudePolygon_OasisRay.git:extrudePolygon.groovy": [
       "https://github.com/OasisRay/extrudePolygon_OasisRay.git",
