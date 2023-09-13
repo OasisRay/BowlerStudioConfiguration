@@ -36,6 +36,10 @@
       "https://github.com/OasisRay/helloWorld_OasisRay.git",
       "1694112943060"
     ],
+    "https://github.com/OasisRay/ToroidTest_OasisRay.git": [
+      "https://github.com/OasisRay/ToroidTest_OasisRay.git",
+      "1694574082275"
+    ],
     "https://github.com/OasisRay/ChamferedParts_OasisRay.git": [
       "https://github.com/OasisRay/ChamferedParts_OasisRay.git",
       "1694572536828"
@@ -69,6 +73,10 @@
     "https://github.com/OasisRay/sphere_OasisRay.git:sphere.groovy": [
       "https://github.com/OasisRay/sphere_OasisRay.git",
       "sphere.groovy"
+    ],
+    "https://github.com/OasisRay/ToroidTest_OasisRay.git:ToroidTest.groovy": [
+      "https://github.com/OasisRay/ToroidTest_OasisRay.git",
+      "ToroidTest.groovy"
     ],
     "https://github.com/OasisRay/cube_OasisRay.git:cube.groovy": [
       "https://github.com/OasisRay/cube_OasisRay.git",
