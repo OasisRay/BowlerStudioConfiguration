@@ -8,9 +8,9 @@
       "https://github.com/OasisRay/javaCad_OasisRay.git",
       "1694113161955"
     ],
-    "https://github.com/OasisRay/extrudePolygon_OasisRay.git": [
-      "https://github.com/OasisRay/extrudePolygon_OasisRay.git",
-      "1694574220574"
+    "https://github.com/OasisRay/ParabolaTest_OasisRay.git": [
+      "https://github.com/OasisRay/ParabolaTest_OasisRay.git",
+      "1694574384109"
     ],
     "https://github.com/OasisRay/cube_OasisRay.git": [
       "https://github.com/OasisRay/cube_OasisRay.git",
@@ -28,10 +28,6 @@
       "https://github.com/OasisRay/cylinder_OasisRay.git",
       "1694573322358"
     ],
-    "https://github.com/OasisRay/sphere_OasisRay.git": [
-      "https://github.com/OasisRay/sphere_OasisRay.git",
-      "1694572916008"
-    ],
     "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git": [
       "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git",
       "1694573606004"
@@ -47,6 +43,14 @@
     "https://github.com/OasisRay/ChamferedParts_OasisRay.git": [
       "https://github.com/OasisRay/ChamferedParts_OasisRay.git",
       "1694572536828"
+    ],
+    "https://github.com/OasisRay/extrudePolygon_OasisRay.git": [
+      "https://github.com/OasisRay/extrudePolygon_OasisRay.git",
+      "1694574220574"
+    ],
+    "https://github.com/OasisRay/sphere_OasisRay.git": [
+      "https://github.com/OasisRay/sphere_OasisRay.git",
+      "1694572916008"
     ]
   },
   "studio-open-web": {},
@@ -65,6 +69,10 @@
     "https://github.com/OasisRay/NamedSolids_OasisRay.git:NamedSolids.groovy": [
       "https://github.com/OasisRay/NamedSolids_OasisRay.git",
       "NamedSolids.groovy"
+    ],
+    "https://github.com/OasisRay/ParabolaTest_OasisRay.git:ParabolaTest.groovy": [
+      "https://github.com/OasisRay/ParabolaTest_OasisRay.git",
+      "ParabolaTest.groovy"
     ],
     "https://github.com/OasisRay/roundedcube_OasisRay.git:roundedcube.groovy": [
       "https://github.com/OasisRay/roundedcube_OasisRay.git",
