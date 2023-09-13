@@ -8,6 +8,10 @@
       "https://github.com/OasisRay/javaCad_OasisRay.git",
       "1694113161955"
     ],
+    "https://github.com/OasisRay/extrudePolygon_OasisRay.git": [
+      "https://github.com/OasisRay/extrudePolygon_OasisRay.git",
+      "1694574220574"
+    ],
     "https://github.com/OasisRay/cube_OasisRay.git": [
       "https://github.com/OasisRay/cube_OasisRay.git",
       "1694572591297"
@@ -85,6 +89,10 @@
     "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git:RoundedCylinderTest.groovy": [
       "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git",
       "RoundedCylinderTest.groovy"
+    ],
+    "https://github.com/OasisRay/extrudePolygon_OasisRay.git:extrudePolygon.groovy": [
+      "https://github.com/OasisRay/extrudePolygon_OasisRay.git",
+      "extrudePolygon.groovy"
     ]
   },
   "BowlerStudioConfigs": {
