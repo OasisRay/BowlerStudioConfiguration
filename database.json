@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/OasisRay/roundedcube_OasisRay.git": [
+      "https://github.com/OasisRay/roundedcube_OasisRay.git",
+      "1694572779865"
+    ],
     "https://github.com/OasisRay/javaCad_OasisRay.git": [
       "https://github.com/OasisRay/javaCad_OasisRay.git",
       "1694113161955"
@@ -22,9 +26,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/OasisRay/ChamferedParts_OasisRay.git:ChamferedParts.groovy": [
-      "https://github.com/OasisRay/ChamferedParts_OasisRay.git",
-      "ChamferedParts.groovy"
+    "https://github.com/OasisRay/roundedcube_OasisRay.git:roundedcube.groovy": [
+      "https://github.com/OasisRay/roundedcube_OasisRay.git",
+      "roundedcube.groovy"
     ],
     "https://github.com/OasisRay/cube_OasisRay.git:cube.groovy": [
       "https://github.com/OasisRay/cube_OasisRay.git",
