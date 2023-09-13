@@ -20,6 +20,10 @@
       "https://github.com/OasisRay/sphere_OasisRay.git",
       "1694572916008"
     ],
+    "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git": [
+      "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git",
+      "1694573606004"
+    ],
     "https://github.com/OasisRay/helloWorld_OasisRay.git": [
       "https://github.com/OasisRay/helloWorld_OasisRay.git",
       "1694112943060"
@@ -53,6 +57,10 @@
     "https://github.com/OasisRay/cube_OasisRay.git:cube.groovy": [
       "https://github.com/OasisRay/cube_OasisRay.git",
       "cube.groovy"
+    ],
+    "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git:RoundedCylinderTest.groovy": [
+      "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git",
+      "RoundedCylinderTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
