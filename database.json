@@ -16,6 +16,10 @@
       "https://github.com/OasisRay/cube_OasisRay.git",
       "1694572591297"
     ],
+    "https://github.com/OasisRay/resizeScale_OasisRay.git": [
+      "https://github.com/OasisRay/resizeScale_OasisRay.git",
+      "1694574817092"
+    ],
     "https://github.com/OasisRay/CamferedCylinder_OasisRay.git": [
       "https://github.com/OasisRay/CamferedCylinder_OasisRay.git",
       "1694574025488"
@@ -62,13 +66,25 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/OasisRay/ChamferedParts_OasisRay.git:ChamferedParts.groovy": [
-      "https://github.com/OasisRay/ChamferedParts_OasisRay.git",
-      "ChamferedParts.groovy"
-    ],
     "https://github.com/OasisRay/moveRotate_OasisRay.git:moveRotate.groovy": [
       "https://github.com/OasisRay/moveRotate_OasisRay.git",
       "moveRotate.groovy"
+    ],
+    "https://github.com/OasisRay/CamferedCylinder_OasisRay.git:CamferedCylinder.groovy": [
+      "https://github.com/OasisRay/CamferedCylinder_OasisRay.git",
+      "CamferedCylinder.groovy"
+    ],
+    "https://github.com/OasisRay/ToroidTest_OasisRay.git:ToroidTest.groovy": [
+      "https://github.com/OasisRay/ToroidTest_OasisRay.git",
+      "ToroidTest.groovy"
+    ],
+    "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git:RoundedCylinderTest.groovy": [
+      "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git",
+      "RoundedCylinderTest.groovy"
+    ],
+    "https://github.com/OasisRay/ChamferedParts_OasisRay.git:ChamferedParts.groovy": [
+      "https://github.com/OasisRay/ChamferedParts_OasisRay.git",
+      "ChamferedParts.groovy"
     ],
     "https://github.com/OasisRay/cylinder_OasisRay.git:cylinder.groovy": [
       "https://github.com/OasisRay/cylinder_OasisRay.git",
@@ -86,29 +102,21 @@
       "https://github.com/OasisRay/roundedcube_OasisRay.git",
       "roundedcube.groovy"
     ],
-    "https://github.com/OasisRay/CamferedCylinder_OasisRay.git:CamferedCylinder.groovy": [
-      "https://github.com/OasisRay/CamferedCylinder_OasisRay.git",
-      "CamferedCylinder.groovy"
-    ],
     "https://github.com/OasisRay/sphere_OasisRay.git:sphere.groovy": [
       "https://github.com/OasisRay/sphere_OasisRay.git",
       "sphere.groovy"
-    ],
-    "https://github.com/OasisRay/ToroidTest_OasisRay.git:ToroidTest.groovy": [
-      "https://github.com/OasisRay/ToroidTest_OasisRay.git",
-      "ToroidTest.groovy"
     ],
     "https://github.com/OasisRay/cube_OasisRay.git:cube.groovy": [
       "https://github.com/OasisRay/cube_OasisRay.git",
       "cube.groovy"
     ],
-    "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git:RoundedCylinderTest.groovy": [
-      "https://github.com/OasisRay/RoundedCylinderTest_OasisRay.git",
-      "RoundedCylinderTest.groovy"
-    ],
     "https://github.com/OasisRay/extrudePolygon_OasisRay.git:extrudePolygon.groovy": [
       "https://github.com/OasisRay/extrudePolygon_OasisRay.git",
       "extrudePolygon.groovy"
+    ],
+    "https://github.com/OasisRay/resizeScale_OasisRay.git:resizeScale.groovy": [
+      "https://github.com/OasisRay/resizeScale_OasisRay.git",
+      "resizeScale.groovy"
     ]
   },
   "BowlerStudioConfigs": {
