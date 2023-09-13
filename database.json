@@ -4,6 +4,10 @@
       "https://github.com/OasisRay/javaCad_OasisRay.git",
       "1694113161955"
     ],
+    "https://github.com/OasisRay/cube_OasisRay.git": [
+      "https://github.com/OasisRay/cube_OasisRay.git",
+      "1694572591297"
+    ],
     "https://github.com/OasisRay/helloWorld_OasisRay.git": [
       "https://github.com/OasisRay/helloWorld_OasisRay.git",
       "1694112943060"
@@ -22,9 +26,9 @@
       "https://github.com/OasisRay/ChamferedParts_OasisRay.git",
       "ChamferedParts.groovy"
     ],
-    "https://github.com/OasisRay/javaCad_OasisRay.git:javaCad.groovy": [
-      "https://github.com/OasisRay/javaCad_OasisRay.git",
-      "javaCad.groovy"
+    "https://github.com/OasisRay/cube_OasisRay.git:cube.groovy": [
+      "https://github.com/OasisRay/cube_OasisRay.git",
+      "cube.groovy"
     ]
   },
   "BowlerStudioConfigs": {
